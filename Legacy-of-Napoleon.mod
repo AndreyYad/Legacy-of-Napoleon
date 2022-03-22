@@ -1,0 +1,15 @@
+version="1.11.*"
+tags={
+	"Alternative History"
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Historical"
+	"Ideologies"
+	"Map"
+	"National Focuses"
+	"Technologies"
+}
+name="Legacy-of-Napoleon"
+supported_version="1.11.9"
+path="C:/Users/RubyRed/Documents/Paradox Interactive/Hearts of Iron IV/mod/Legacy-of-Napoleon"
