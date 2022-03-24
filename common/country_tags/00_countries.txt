@@ -1,0 +1,2 @@
+COG = "countries/Congo.txt"
+RUS = "countries/Russia.txt"
