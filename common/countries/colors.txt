@@ -2,3 +2,10 @@ RUS = {
 	color = rgb { 46 116 30 }
 	color_ui = rgb { 46 116 30 }
 }
+BLR = {
+	color = rgb { 178 34 34 }
+	color_ui = rgb { 178 34 34 }
+}
+
+
+
