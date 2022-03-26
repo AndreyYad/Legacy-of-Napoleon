@@ -1,3 +1,4 @@
 COG = "countries/Congo.txt"
 RUS = "countries/Russia.txt"
 BLR = "countries/Belarus.txt"
+POL = "countries/Poland.txt"

@@ -6,6 +6,9 @@ BLR = {
 	color = rgb { 178 34 34 }
 	color_ui = rgb { 178 34 34 }
 }
-
+POL = {
+	color = rgb { 85 107 47 }
+	color_ui = rgb { 85 107 47 }
+}
 
 
