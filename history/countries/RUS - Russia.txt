@@ -10,9 +10,6 @@ set_technology = {
 
 set_convoys = 5
 
-recruit_character = RUS_pavel_milyukov
-recruit_character = RUS_nikolai_romanov
-
 1939.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort
@@ -49,6 +46,7 @@ recruit_character = RUS_nikolai_romanov
 	}
 }
 
+# A colony of Italy in 1939.  However, if independent it would have the same as its 1936 politics
 set_politics = {
 	ruling_party = conservatism
 	last_election = "1936.1.1"
@@ -60,9 +58,10 @@ set_popularities = {
 	socialism = 8
 	communism = 20
 	national_syndicalism = 8
-	reactionism = 4
+	reactionism = 0
+	rad_liberalism = 9
 	liberalism = 25
 	soc_liberalism = 6
-	conservatism = 12
+	conservatism = 7
 	rad_nationalism = 13
 }
