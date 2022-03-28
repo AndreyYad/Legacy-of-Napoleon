@@ -1,0 +1,18 @@
+characters = {
+	ZFR_Nikolai={
+		name=ZFR_Nikolai
+		portraits={
+			civilian={
+				large="gfx/leaders/ZFR/Portrait_ZFR_Nikolai.dds"
+			}
+			army = {
+				small = "gfx/leaders/ZFR/Portrait_ZFR_Nikolai.dds"
+			}
+		}
+		country_leader={
+			ideology= conservatism_ideology 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

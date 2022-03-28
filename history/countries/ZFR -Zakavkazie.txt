@@ -1,6 +1,6 @@
-﻿capital = 4
+﻿capital = 231
 
-oob = "AUS_1936"
+oob = "ZFR_1936"
 
 # Starting tech
 set_technology = {
@@ -8,7 +8,7 @@ set_technology = {
 	tech_mountaineers = 1
 }
 
-recruit_character = AUS_Franz
+recruit_character = ZFR_Nikolai
 
 set_convoys = 5
 
@@ -50,7 +50,7 @@ set_convoys = 5
 
 # A colony of Italy in 1939.  However, if independent it would have the same as its 1936 politics
 set_politics = {
-	ruling_party = reactionism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
