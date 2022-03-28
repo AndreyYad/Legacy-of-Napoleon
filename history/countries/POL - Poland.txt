@@ -8,6 +8,8 @@ set_technology = {
 	tech_mountaineers = 1
 }
 
+recruit_character = POL_Kristian
+
 set_convoys = 5
 
 1939.1.1 = {
