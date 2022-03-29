@@ -1,0 +1,18 @@
+characters = {
+	FRA_Napoleon={
+		name = FRA_Napoleon
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/Portrait_FRA_Napoleon.dds"
+			}
+			army = {
+				small = "gfx/leaders/FRA/Portrait_FRA_Napoleon.dds"
+			}
+		}
+		country_leader = {
+			ideology= monarchism 
+			expire = "1965.1.1.1"
+			id=-1
+		}
+	}
+}

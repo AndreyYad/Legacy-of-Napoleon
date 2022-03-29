@@ -18,3 +18,7 @@ ZFR	= {
     color = rgb { 128 0 0 }
 	color_ui = rgb { 128 0 0 }
 }
+FRA	= {
+    color = rgb {  0 47 85  }
+	color_ui = rgb {  0 47 85 }
+}
