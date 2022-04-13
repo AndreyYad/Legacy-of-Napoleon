@@ -1,0 +1,18 @@
+characters = {
+	GER_Willhelm={
+		name=GER_Willhelm
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_GER_Willhelm.dds"
+			}
+			army = {
+				small = "gfx/leaders/GER/Portrait_GER_Willhelm.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
