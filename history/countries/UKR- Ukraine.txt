@@ -1,6 +1,6 @@
-﻿capital = 16
+﻿capital = 202
 
-oob = "FRA_1936"
+oob = "UKR_1936"
 
 # Starting tech
 set_technology = {
@@ -8,7 +8,8 @@ set_technology = {
 	tech_mountaineers = 1
 }
 
-recruit_character = FRA_Napoleon
+recruit_character = UKR_Petlura
+recruit_character = UKR_Skoropadski
 
 set_convoys = 5
 
@@ -48,12 +49,6 @@ set_convoys = 5
 	}
 }
 
-create_faction = Commonwealth
-add_to_faction = FRA
-add_to_faction = BLR
-add_to_faction = POL
-add_to_faction = UKR
-
 set_politics = {
 	ruling_party = reactionism
 	last_election = "1936.1.1"
@@ -65,9 +60,9 @@ set_popularities = {
 	socialism = 8
 	communism = 20
 	national_syndicalism = 8
-	reactionism = 4
+	reactionism = 9
 	liberalism = 25
 	soc_liberalism = 6
-	conservatism = 12
+	conservatism = 7
 	rad_nationalism = 13
 }

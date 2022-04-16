@@ -8,4 +8,4 @@ FRA = "countries/France.txt"
 GER = "countries/Germany.txt"
 TUR = "countries/Turkey.txt"
 ENG = "countries/United Kingdom.txt"
-
+UKR = "countries/Ukraine.txt"

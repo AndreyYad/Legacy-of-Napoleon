@@ -1,0 +1,34 @@
+characters = {
+	UKR_Petlura={
+		name=UKR_Petlura
+		portraits={
+			civilian={
+				large="gfx/leaders/UKR/Portrait_UKR_Petlura.dds"
+			}
+			army = {
+				small = "gfx/leaders/UKR/Portrait_UKR_Petlura.dds"
+			}
+		}
+		country_leader={
+			ideology= socialism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+		UKR_Skoropadski={
+		name=UKR_Skoropadski
+		portraits={
+			civilian={
+				large="gfx/leaders/UKR/Portrait_UKR_Skoropadski.dds"
+			}
+			army = {
+				small = "gfx/leaders/UKR/Portrait_UKR_Skoropadski.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
