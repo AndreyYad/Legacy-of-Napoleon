@@ -139,7 +139,7 @@
  TUR_conservatism_party_long:0 ""
  TUR_rad_nationalism_party:0 "ЕП"
  TUR_rad_nationalism_party_long:0 "Единение и прогресс"
- 
+
  ENG_anarchism_party:0 "Анархисты"
  ENG_socialism_party:0 "БСП"
  ENG_socialism_party_long:0 "Британская социалистическая партия"
@@ -157,3 +157,4 @@
  ENG_conservatism_party_long:0 "Консервативная партия"
  ENG_rad_nationalism_party:0 "СБФ"
  ENG_rad_nationalism_party_long:0 "Союз Британских Фашистов"
+
