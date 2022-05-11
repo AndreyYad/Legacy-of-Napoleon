@@ -1,0 +1,18 @@
+characters = {
+	TUR_Mehmed={
+		name=TUR_Mehmed
+		portraits={
+			civilian={
+				large="gfx/leaders/TUR/Portrait_TUR_Mehmed.dds"
+			}
+			army = {
+				small = "gfx/leaders/TUR/Portrait_TUR_Mehmed.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

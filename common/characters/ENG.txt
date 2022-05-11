@@ -1,0 +1,18 @@
+characters = {
+	ENG_George={
+		name=ENG_George
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_ENG_George.dds"
+			}
+			army = {
+				small = "gfx/leaders/POL/Portrait_ENG_George.dds"
+			}
+		}
+		country_leader={
+			ideology= conservatism_ideology 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
