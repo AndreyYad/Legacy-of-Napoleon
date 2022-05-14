@@ -1,3 +1,32 @@
 ﻿l_russian:
+ #Беларусь
+ BLR_Bulak:0 "Станислав Булак-Балахович"
+ #Летува
+ BLR_Napoleon:0 "Луи Бонапарт"
+ #Польша
+ POL_Kristian:0 "Фридрих Саксонский"
+ #Австрия
+ AUS_Franz:0 "Франц Иосиф I"
+ #ЗДФР
+ ZFR_Nikolai:0 "Николай Чхеидзе"
+ #Франция
+ FRA_Napoleon:0 "Наполеон V"
+ #Германия
+ GER_Willhelm:0 "Вильгельм II"
+ GER_Hitler:0 "Адольф Гитлер"
+ #Великобритания
+ ENG_George:0 "Дэвид Джордж"
+ #Турция
+ TUR_Mehmed:0 "Мехмед VI"
+ #Россия
  RUS_pavel_milyukov:0 "Павел Милюков"
  RUS_nikolai_romanov:0 "Николай II"
+ #Украина
+ UKR_Petlura:0 "Симон Петлюра"
+ UKR_Skoropadski:0 "Павел Скоропадский"
+ #Иран
+ PER_Ahmad_Shah:0 "Ахмад-шах"
+ #Италия
+ ITA_Mussolini:0 "Бенито Муссолини"
+ ITA_Emanuil:0 "Виктор Эммануил III"
+

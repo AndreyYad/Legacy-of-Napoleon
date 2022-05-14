@@ -1,0 +1,18 @@
+characters = {
+	PER_Ahmad_Shah={
+		name=PER_Ahmad_Shah
+		portraits={
+			civilian={
+				large="gfx/leaders/PER/Portrait_PER_Ahmad_Shah.dds"
+			}
+			army = {
+				small = "gfx/leaders/PER/Portrait_PER_Ahmad_Shah.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

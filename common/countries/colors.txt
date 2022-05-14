@@ -3,8 +3,8 @@ RUS = {
 	color_ui = rgb { 46 116 30 }
 }
 BLR = {
-	color = rgb { 178 34 34 }
-	color_ui = rgb { 178 34 34 }
+	color = rgb { 239 238 215 }
+	color_ui = rgb { 239 238 215 }
 }
 POL = {
 	color = rgb { 85 107 47 }
@@ -21,4 +21,44 @@ ZFR	= {
 FRA	= {
     color = rgb {  0 47 85  }
 	color_ui = rgb {  0 47 85 }
+}
+GER	= {
+    color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
+}
+TUR	= {
+    color = rgb { 139 0 0 }
+	color_ui = rgb { 139 0 0  }
+}
+ENG	= {
+    color = rgb { 201  56  93 }
+	color_ui = rgb { 201  56  93  }
+}
+UKR	= {
+    color = rgb { 153 61 0 }
+	color_ui = rgb { 153 61 0  }
+}
+LIT = {
+    color = rgb { 135 108 153 }
+	color_ui = rgb { 135 108 153   }
+}
+KRL = {
+    color = rgb { 46 139 87 }
+	color_ui = rgb { 46 139 87 }
+}
+KPR = {
+    color = rgb { 142 69 133 }
+	color_ui = rgb { 142 69 133 }
+}
+MAK = {
+    color = rgb { 130 130 130 }
+	color_ui = rgb { 130 130 130 }
+}
+PER = {
+    color = rgb { 170 170 85 }
+	color_ui = rgb { 170 170 85 }
+}
+ITA = {
+    color = rgb {  0 69 36 }
+	color_ui = rgb {  0 69 36 }
 }
