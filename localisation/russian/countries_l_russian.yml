@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  RUS_anarchism:0 "Российская коммуна"
  RUS_anarchism_DEF:0 "Российская коммуна"
  RUS_socialism:0 "Российская Советская Федеративная Социалистическая Республика"
@@ -432,7 +432,7 @@ l_russian:
  KPR_rad_nationalism_ADJ:0 "Донск."
  KPR:0 "Кубанская народная республика"
  KPR_DEF:0 "Кубанская народная республика"
- KPR_ADJ:0 "Донск.
+ KPR_ADJ:0 "Донск."
  
  PER_anarchism:0 "Тегеранская коммуна"
  PER_anarchism_DEF:0 "Тегеранская коммуна"
@@ -493,5 +493,33 @@ l_russian:
  ITA:0 "Италия"
  ITA_DEF:0 "Италия"
  ITA_ADJ:0 "Итальянск."
-
-
+ 
+ GOR_anarchism:0 "Владикавказская Коммуна"
+ GOR_anarchism_DEF:0 "Владикавказская Коммуна"
+ GOR_socialism:0 "Терская советская республика"
+ GOR_socialism_DEF:0 "Терская советская республика"
+ GOR_communism:0 "Терская советская республика"
+ GOR_communism_DEF:0 "Терская советская республика"
+ GOR_national_syndicalism:0 "Горская Национально-советская Республика"
+ GOR_national_syndicalism_DEF:0 "Горская Национально-советская Республика"
+ GOR_reactionism:0 "Горская Республика"
+ GOR_reactionism_DEF:0 "Горская Республика"
+ GOR_liberalism:0 "Горская Республика"
+ GOR_liberalism_DEF:0 "Горская Республика"
+ GOR_conservatism:0 "Горская Республика"
+ GOR_conservatism_DEF:0 "Горская Республика"
+ GOR_rad_nationalism:0 "Горское Государство"
+ GOR_rad_nationalism_DEF:0 "Горское Государство"
+ GOR_anarchism_ADJ:0 "Горск."
+ GOR_socialism_ADJ:0 "Горск."
+ GOR_communism_ADJ:0 "Горск."
+ GOR_national_syndicalism_ADJ:0 "Горск."
+ GOR_reactionism_ADJ:0 "Горск."
+ GOR_rad_liberalism_ADJ:0 "Горск."
+ GOR_liberalism_ADJ:0 "Горск."
+ GOR_soc_liberalism_ADJ:0 "Горск."
+ GOR_conservatism_ADJ:0 "Горск."
+ GOR_rad_nationalism_ADJ:0 "Горск."
+ GOR:0 "Горская Республика"
+ GOR_DEF:0 "Горская Республика"
+ GOR_ADJ:0 "Горск."

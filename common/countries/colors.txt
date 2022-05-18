@@ -62,5 +62,9 @@ ITA = {
     color = rgb {  0 69 36 }
 	color_ui = rgb {  0 69 36 }
 }
+GOR = {
+    color = rgb {  27 85 131 }
+	color_ui = rgb {  27 85 131 }
+}
 
 

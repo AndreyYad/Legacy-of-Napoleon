@@ -845,7 +845,7 @@
  VICTORY_POINTS_775:0 "Сальск"
  VICTORY_POINTS_11724:1 "Элиста" #(Was Elitsa), which is an incorrect spelling of the area, and merely a feminine Bulgarian name
  VICTORY_POINTS_11696:0 "Ставрополь"
- VICTORY_POINTS_9628:0 "Орджоникидзе"
+ VICTORY_POINTS_9628:0 "Владикавказ"
  VICTORY_POINTS_9663:0 "Сочи"
  VICTORY_POINTS_719:1 "Новороссийск"
  VICTORY_POINTS_487:0 "Михайловка"
@@ -1054,4 +1054,6 @@
  VICTORY_POINTS_13237:0 "Ошмяны"
  VICTORY_POINTS_315:0 "Стародуб"
  VICTORY_POINTS_6459:0 "Краслава"
+ VICTORY_POINTS_13238:0 "Новогрудок"
+ VICTORY_POINTS_6371:0 "Полоцк" 
  
