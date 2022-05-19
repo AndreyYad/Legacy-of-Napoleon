@@ -66,5 +66,7 @@ GOR = {
     color = rgb {  27 85 131 }
 	color_ui = rgb {  27 85 131 }
 }
-
+DON = {
+    color = rgb {  255 219 139 }
+	color_ui = rgb {  255 219 139 }
 
