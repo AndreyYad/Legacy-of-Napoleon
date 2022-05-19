@@ -1,0 +1,18 @@
+characters = {
+	GOR_Kocev={
+		name=GOR_Kocev
+		portraits={
+			civilian={
+				large="gfx/leaders/GOR/Portrait_GOR_Kocev.dds"
+			}
+			army = {
+				small = "gfx/leaders/GOR/Portrait_GOR_Kocev.dds"
+			}
+		}
+		country_leader={
+			ideology= conservatism_ideology 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,12 +1,12 @@
 characters = {
-	BLR_Napoleon={
-		name = BLR_Napoleon
+	BLR_Bulak={
+		name = BLR_Bulak
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/BLR/Portrait_LIT_Napoleon.dds"
+				large = "gfx/leaders/BLR/Portrait_BLR_Bulak.dds"
 			}
 			army = {
-				small = "gfx/leaders/BLR/Portrait_LIT_Napoleon.dds"
+				small = "gfx/leaders/BLR/Portrait_BLR_Bulak.dds"
 			}
 		}
 		country_leader = {

@@ -1,0 +1,34 @@
+characters = {
+	ITA_Mussolini={
+		name=ITA_Mussolini
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/Portrait_ITA_Mussolini.dds"
+			}
+			army = {
+				small = "gfx/leaders/ITA/Portrait_ITA_Mussolini.dds"
+			}
+		}
+		country_leader={
+			ideology= rad_nationalism_ideology  
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+		ITA_Emanuil={
+		name=ITA_Emanuil
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/Portrait_ITA_Emanuil.dds"
+			}
+			army = {
+				small = "gfx/leaders/ITA/Portrait_ITA_Emanuil.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

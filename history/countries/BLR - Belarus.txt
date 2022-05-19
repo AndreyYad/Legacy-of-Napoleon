@@ -8,7 +8,7 @@ set_technology = {
 	tech_mountaineers = 1
 }
 
-recruit_character = BLR_Napoleon
+recruit_character = BLR_Bulak
 
 set_convoys = 5
 
