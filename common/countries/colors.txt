@@ -40,7 +40,7 @@ UKR	= {
 }
 LIT = {
     color = rgb { 135 108 153 }
-	color_ui = rgb { 135 108 153   }
+	color_ui = rgb { 135 108 153  }
 }
 KRL = {
     color = rgb { 46 139 87 }
@@ -67,6 +67,12 @@ GOR = {
 	color_ui = rgb {  27 85 131 }
 }
 DON = {
-    color = rgb {  255 219 139 }
-	color_ui = rgb {  255 219 139 }
+    color = rgb {   248 243 43  }
+	color_ui = rgb {  248 243 43  }
+}
+SPA = {
+    color = rgb {  243 165 5  }
+	color_ui = rgb {243 165 5 }
+}
+
 
