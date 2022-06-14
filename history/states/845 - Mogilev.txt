@@ -1,0 +1,36 @@
+
+state={
+	id=845
+	name="STATE_845"
+	manpower =  1163163
+	
+	state_category = city
+
+	history={
+		owner = GGB
+		victory_points = {
+			11370 20
+		}
+		victory_points = {
+			9289 5
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			air_base = 0
+		}
+		add_core_of = BLR
+                add_core_of = GGB
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+			}
+		}
+	}
+
+	provinces={
+		  9289  
+	}
+
+	local_supplies=5.0 
+}

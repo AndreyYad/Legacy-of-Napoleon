@@ -74,5 +74,27 @@ SPA = {
     color = rgb {  243 165 5  }
 	color_ui = rgb {243 165 5 }
 }
-
-
+DEN = {
+    color = rgb {  149 80 12  }
+	color_ui = rgb {149 80 12 }
+}
+SER = {
+    color = rgb {  0 49 83  }
+	color_ui = rgb {0 50 90 }
+}
+ROM = {
+    color = rgb {  252 232 131  }
+	color_ui = rgb { 270 210 120 }
+}
+BUL = {
+    color = rgb {  0 105 62  }
+	color_ui = rgb { 0 105 62 }
+}
+LAT = {
+    color = rgb {  112  90  87  }
+	color_ui = rgb { 112  90  87 }
+}
+GGB = {
+	color = rgb { 239 238 215 }
+	color_ui = rgb { 239 238 215 }
+}

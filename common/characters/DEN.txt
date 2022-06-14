@@ -1,0 +1,18 @@
+characters = {
+	DEN_Cristian_XI={
+		name=DEN_Cristian_XI
+		portraits={
+			civilian={
+				large="gfx/leaders/DEN/Portrait_DEN_Cristian_XI.dds"
+			}
+			army = {
+				small = "gfx/leaders/DEN/Portrait_DEN_Cristian_XI.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

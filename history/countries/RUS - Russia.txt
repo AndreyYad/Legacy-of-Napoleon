@@ -51,8 +51,20 @@ recruit_character = RUS_nikolai_romanov
 	}
 }
 
+
+set_autonomy = {
+		target = LAT
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.1
+	}
+set_autonomy = {
+		target = GGB
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.1
+	}
+
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = reactionism 
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
