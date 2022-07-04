@@ -1,0 +1,18 @@
+characters = {
+	MNT_Nikola_I={
+		name=MNT_Nikola_I
+		portraits={
+			civilian={
+				large="gfx/leaders/SPA/Portrait_MNT_Nikola_I.dds"
+			}
+			army = {
+				small = "gfx/leaders/SPA/Portrait_MNT_Nikola_I.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

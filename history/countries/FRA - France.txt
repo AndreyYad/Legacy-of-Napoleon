@@ -48,11 +48,13 @@ set_convoys = 5
 	}
 }
 
-create_faction = Commonwealth
+create_faction = Treaty_of_Paris
 add_to_faction = FRA
 add_to_faction = BLR
 add_to_faction = POL
 add_to_faction = UKR
+add_to_faction = NED
+add_to_faction = JAP
 
 set_politics = {
 	ruling_party = reactionism

@@ -1,0 +1,34 @@
+characters = {
+	JAP_Esihito={
+		name=JAP_Esihito
+		portraits={
+			civilian={
+				large="gfx/leaders/JAP/Portrait_JAP_Esihito.dds"
+			}
+			army = {
+				small = "gfx/leaders/JAP/Portrait_JAP_Esihito.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+		JAP_Hirohito={
+		name=JAP_Hirohito
+		portraits={
+			civilian={
+				large="gfx/leaders/JAP/Portrait_JAP_Hirohito.dds"
+			}
+			army = {
+				small = "gfx/leaders/JAP/Portrait_JAP_Hirohito.dds"
+			}
+		}
+		country_leader={
+			ideology= rad_nationalism_ideology 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

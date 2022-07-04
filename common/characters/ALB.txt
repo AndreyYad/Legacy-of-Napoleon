@@ -1,0 +1,18 @@
+characters = {
+	ALB_Wilhelm_Wied={
+		name=ALB_Wilhelm_Wied
+		portraits={
+			civilian={
+				large="gfx/leaders/ALB/Portrait_ALB_Wilhelm_Wied.dds"
+			}
+			army = {
+				small = "gfx/leaders/ALB/Portrait_ALB_Wilhelm_Wied.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

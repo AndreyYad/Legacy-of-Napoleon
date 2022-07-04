@@ -1,0 +1,18 @@
+characters = {
+	SER_Alexander={
+		name=SER_Alexander
+		portraits={
+			civilian={
+				large="gfx/leaders/SER/Portrait_SER_Alexander.dds"
+			}
+			army = {
+				small = "gfx/leaders/SER/Portrait_SER_Alexander.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

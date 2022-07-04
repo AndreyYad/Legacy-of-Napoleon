@@ -1,0 +1,12 @@
+on_actions = {
+   if = {
+		limit = {
+			AND = {
+				TAG = LAT
+				is_subject_of = RUS
+			}
+		}
+		set_cosmetic_tag = LAT_RUS
+		set_country_flag = country_puppet
+	}
+}

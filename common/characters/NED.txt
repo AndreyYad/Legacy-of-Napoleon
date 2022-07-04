@@ -1,0 +1,18 @@
+characters = {
+	NED_Wilhelmina={
+		name=NED_Wilhelmina
+		portraits={
+			civilian={
+				large="gfx/leaders/NED/Portrait_NED_Wilhelmina.dds"
+			}
+			army = {
+				small = "gfx/leaders/NED/Portrait_NED_Wilhelmina.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

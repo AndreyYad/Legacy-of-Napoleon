@@ -1,0 +1,18 @@
+characters = {
+	GRE_Alexander_I={
+		name=GRE_Alexander_I
+		portraits={
+			civilian={
+				large="gfx/leaders/GRE/Portrait_GRE_Alexander_I.dds"
+			}
+			army = {
+				small = "gfx/leaders/GRE/Portrait_GRE_Alexander_I.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism 
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

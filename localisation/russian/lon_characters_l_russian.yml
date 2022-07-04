@@ -32,5 +32,23 @@
  #Горская Республика
  GOR_Kocev:0 "Пшемахо Коцев"
  #Испания
- SPA_Alfonso:0 "Альфонсо XIII
-
+ SPA_Alfonso_XIII:0 "Альфонсо XIII"
+ #Дания 
+ DEN_Cristian_XI:0 "Кристиан X"
+ #Сербия
+ SER_Alexander:0 "Александр I"
+ #Румыния
+ ROM_Ferdinand_I:0 "Фердинанд I"
+ #Болгария
+ BUL_Ferdinand:0 "Фердинанд I"
+ #Нидерланды
+ NED_Wilhelmina:0 "Вильгельмина"
+ #Греция
+ GRE_Alexander_I:0 "Александр I"
+ #Черногория
+ MNT_Nikola_I:0 "Никола I Петрович"
+ #Албания
+ ALB_Wilhelm_Wied:0 "Вильгельм Вид"
+ #Япония
+ JAP_Esihito:0 "Ёсихито"
+ JAP_Hirohito:0 "Хирохито"

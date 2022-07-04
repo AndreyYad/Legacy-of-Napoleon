@@ -1,0 +1,18 @@
+characters = {
+	ROM_Ferdinand_I={
+		name=ROM_Ferdinand_I
+		portraits={
+			civilian={
+				large="gfx/leaders/ROM/Portrait_ROM_Ferdinand_I.dds"
+			}
+			army = {
+				small = "gfx/leaders/ROM/Portrait_ROM_Ferdinand_I.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

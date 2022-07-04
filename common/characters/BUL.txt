@@ -1,0 +1,18 @@
+characters = {
+	BUL_Ferdinand={
+		name=BUL_Ferdinand
+		portraits={
+			civilian={
+				large="gfx/leaders/BUL/Portrait_BUL_Ferdinand.dds"
+			}
+			army = {
+				small = "gfx/leaders/BUL/Portrait_BUL_Ferdinand.dds"
+			}
+		}
+		country_leader={
+			ideology= monarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
