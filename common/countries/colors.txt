@@ -122,3 +122,5 @@ JAP = {
 	color = rgb { 255 191 191  }
 	color_ui = rgb { 265 191 195 }
 }
+
+

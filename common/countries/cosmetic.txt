@@ -3,12 +3,10 @@ MAL_UK = {
     color = rgb { 201 56 93 }
     color_ui = rgb { 255 73 121 }
 }
-
 LAT_RUS = {
     color = rgb {46 116 30 }
     color_ui = rgb { 46 116 30 }
 }
-
 RAJ_UK = {
 	color = rgb { 170  10  10 }
 	color_ui = rgb { 200  10  10 }
