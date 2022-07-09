@@ -32,5 +32,3 @@ GRE = "countries/Greece.txt"
 MNT = "countries/Montenegro.txt"
 ALB = "countries/Albania.txt"
 JAP = "countries/Japan.txt"
-
-
