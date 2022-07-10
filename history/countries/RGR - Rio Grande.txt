@@ -8,7 +8,7 @@ set_technology = {
 	tech_mountaineers = 1
 }
 
-#recruit_character = DON_Denisov
+recruit_character = RGR_Pereyra
 
 set_convoys = 5
 
@@ -57,12 +57,12 @@ set_politics = {
 }
 set_popularities = {
 	anarchism = 4
-	socialism = 8
-	communism = 20
-	national_syndicalism = 8
-	reactionism = 9
-	liberalism = 25
-	soc_liberalism = 6
-	conservatism = 7
-	rad_nationalism = 13
+	socialism = 53
+	communism = 27
+	national_syndicalism = 3
+	reactionism = 4
+	liberalism = 9
+	soc_liberalism = 0
+	conservatism = 0
+	rad_nationalism = 0
 }

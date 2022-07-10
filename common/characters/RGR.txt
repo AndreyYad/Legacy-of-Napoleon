@@ -1,0 +1,15 @@
+characters = {
+	RGR_Pereyra = {
+		name = RGR_Pereyra
+		portraits = {
+			civilian={
+				large="gfx/leaders/RGR/Portrait_RGR_Pereyra.dds"
+			}
+		}
+		country_leader = {
+			ideology = socialism_ideology 
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+}

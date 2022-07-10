@@ -1,3 +1,7 @@
+JUL = {
+	color = rgb { 0 128 51 }
+	color_ui = rgb { 0 128 51 }
+}
 RGR = {
 	color = rgb { 255 222 0 }
 	color_ui = rgb { 255 222 0 }

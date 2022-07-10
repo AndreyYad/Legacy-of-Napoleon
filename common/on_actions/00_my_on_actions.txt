@@ -1,0 +1,85 @@
+on_actions = {
+
+	on_puppet = {
+		effect = {
+			if = {
+				limit = {
+					AND = {
+						TAG = CRI
+						is_subject_of = FRA
+					}
+				}
+				set_cosmetic_tag = CRI_FRA
+				set_country_flag = country_puppet
+			}
+			if = {
+				limit = {
+					AND = {
+						TAG = CRI
+						is_subject = yes
+						NOT = {
+							is_subject_of = FRA
+						}
+					}
+				}
+				set_cosmetic_tag = CRI_subject
+				set_country_flag = country_puppet
+			}
+		}
+	}
+
+	#ROOT is subject FROM is previous overlord
+	on_subject_free = {
+		effect = {
+			if = {
+				limit = {
+					has_country_flag = country_puppet
+					}
+				clr_country_flag = country_puppet
+				drop_cosmetic_tag = yes
+			}
+		}
+	}
+
+	#ROOT is subject FROM is overlord
+	on_subject_annexed = {
+		effect = {
+			if = {
+				limit = {
+					has_country_flag = country_puppet
+					}
+				clr_country_flag = country_puppet
+				drop_cosmetic_tag = yes
+			}
+		}
+	}
+
+	on_release_as_puppet = {
+		effect = {
+			if = {
+				limit = {
+					AND = {
+						TAG = CRI
+						is_subject_of = FRA
+					}
+				}
+				set_cosmetic_tag = CRI_FRA
+				set_country_flag = country_puppet
+			}
+			if = {
+				limit = {
+					AND = {
+						TAG = CRI
+						is_subject = yes
+						NOT = {
+							is_subject_of = FRA
+						}
+					}
+				}
+				set_cosmetic_tag = CRI_subject
+				set_country_flag = country_puppet
+			}
+		}
+	}
+
+}

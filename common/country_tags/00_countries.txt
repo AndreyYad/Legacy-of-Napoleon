@@ -1,3 +1,4 @@
+JUL = "countries/Julian.txt"
 RGR = "countries/Rio Grande.txt"
 COG = "countries/Congo.txt"
 RUS = "countries/Russia.txt"

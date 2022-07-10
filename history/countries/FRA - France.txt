@@ -56,6 +56,16 @@ add_to_faction = UKR
 add_to_faction = NED
 add_to_faction = JAP
 
+if = {
+	limit = {
+		OR = { has_dlc = "Together for Victory" has_dlc = "Man the Guns" }
+	}
+	set_autonomy = { target = CRI autonomous_state = autonomy_supervised_state }
+	else = {
+		puppet = CRI
+	}
+}
+
 set_politics = {
 	ruling_party = reactionism
 	last_election = "1936.1.1"
