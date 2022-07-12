@@ -1,3 +1,5 @@
+JUL = "countries/Julian.txt"
+RGR = "countries/Rio Grande.txt"
 COG = "countries/Congo.txt"
 RUS = "countries/Russia.txt"
 BLR = "countries/Belarus.txt"
@@ -31,5 +33,3 @@ GRE = "countries/Greece.txt"
 MNT = "countries/Montenegro.txt"
 ALB = "countries/Albania.txt"
 JAP = "countries/Japan.txt"
-
-

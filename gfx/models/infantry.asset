@@ -1,0 +1,12 @@
+animation = {
+	name = "infantry_attack_animation"
+	file = "infantry_attack.anim"
+}
+animation = {
+	name = "infantry_idle_animation"
+	file = "infantry_idle.anim"
+}
+animation = {
+	name = "infantry_move_animation"
+	file = "infantry_move.anim"
+}

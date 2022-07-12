@@ -1,3 +1,11 @@
+JUL = {
+	color = rgb { 0 128 51 }
+	color_ui = rgb { 0 128 51 }
+}
+RGR = {
+	color = rgb { 255 222 0 }
+	color_ui = rgb { 255 222 0 }
+}
 RUS = {
 	color = rgb { 46 116 30 }
 	color_ui = rgb { 46 116 30 }
@@ -122,5 +130,3 @@ JAP = {
 	color = rgb { 255 191 191  }
 	color_ui = rgb { 265 191 195 }
 }
-
-

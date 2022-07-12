@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  anarchism:0 "Анархизм"
  socialism:0 "Утопический социализм"
  communism:0 "Догматический коммунизм"
@@ -8,6 +8,22 @@ l_russian:
  soc_liberalism:0 "Социальный либерализм"
  conservatism:0 "Консерватизм"
  rad_nationalism:0 "Радикальный национализм"
+
+ anarchism_party:0 "Анархизм"
+ socialism_party:0 "Утопический социализм"
+ communism_party:0 "Догматический коммунизм"
+ national_syndicalism_party:0 "Национал-синдикализм"
+ reactionism_party:0 "Реакционизм"
+ liberalism_party:0 "Либерализм"
+ soc_liberalism_party:0 "Социальный либерализм"
+ conservatism_party:0 "Консерватизм"
+ rad_nationalism_party:0 "Радикальный национализм"
+
+ CRI_reactionism_party:0 "Французкая Администрация"
+
+ RGR_socialism_party:0 "КПРГ"
+ RGR_socialism_party_long:0 "Коммунистическая Партия Риу-Гранди"
+ RGR_liberalism_party:0 "Союз-36"
 
  RUS_anarchism_party:0 "Эсеры(Анархисты)"
  RUS_socialism_party:0 "Эсеры"
@@ -418,22 +434,22 @@ l_russian:
  GGB_rad_nationalism_party:0 "ПГГ"
  GGB_rad_nationalism_party_long:0 "Правительство Генерал-Губернатора"
 
- CRI_anarchism_party:0 "Анархисты"
- CRI_socialism_party:0 ""
- CRI_socialism_party_long:0 ""
+ #CRI_anarchism_party:0 "Анархисты"
+ #CRI_socialism_party:0 ""
+ #CRI_socialism_party_long:0 ""
  CRI_communism_party:0 "КПК"
  CRI_communism_party_long:0 "Коммунистическая партия Крыма"
- CRI_national_syndicalism_party:0 ""
- CRI_national_syndicalism_party_long:0 ""
- CRI_reactionism_party:0 ""
- CRI_reactionism_party_long:0 "" 
- CRI_liberalism_party:0 ""
- CRI_liberalism_party_long:0 "" 
- CRI_soc_liberalism_party:0 ""
- CRI_conservatism_party:0 ""
- CRI_conservatism_party_long:0 ""
- CRI_rad_nationalism_party:0 ""
- CRI_rad_nationalism_party_long:0 ""
+ #CRI_national_syndicalism_party:0 ""
+ #CRI_national_syndicalism_party_long:0 ""
+ CRI_reactionism_party:0 "Французкая Администрация"
+ #CRI_reactionism_party_long:0 "" 
+ #CRI_liberalism_party:0 ""
+ #CRI_liberalism_party_long:0 "" 
+ #CRI_soc_liberalism_party:0 ""
+ #CRI_conservatism_party:0 ""
+ #CRI_conservatism_party_long:0 ""
+ #CRI_rad_nationalism_party:0 ""
+ #CRI_rad_nationalism_party_long:0 ""
 
  NED_anarchism_party:0 "Анархисты"
  NED_socialism_party:0 "СПН"
@@ -502,4 +518,4 @@ l_russian:
  JAP_conservatism_party_long:0 ""
  JAP_rad_nationalism_party:0 "Кодоха"
  JAP_rad_nationalism_party_long:0 "Фракция Императорского Пути"
-
+ 

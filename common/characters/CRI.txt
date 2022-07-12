@@ -1,0 +1,15 @@
+characters = {
+		CRI_Fra_Adm = {
+		name = CRI_Fra_Adm
+		portraits = {
+			civilian = {
+				large="gfx/leaders/CRI/Portrait_CRI_FRA.dds"
+			}
+		}
+		country_leader={
+			ideology = reactionism_ideology
+			expire = "1965.1.1.1"
+			id=-1
+		}
+	}
+}

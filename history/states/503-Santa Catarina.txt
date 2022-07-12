@@ -1,0 +1,25 @@
+
+state={
+	id=503
+	name="STATE_503"
+	manpower = 1922700
+	
+	state_category = rural
+
+	history={
+		owner = RDR
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 1
+		}
+		add_core_of = BRA
+		add_core_of = JUL
+		add_core_of = RDR
+	}
+
+	provinces={
+		1529 13242 10405 4548
+	}
+
+	local_supplies=0.0 
+}

@@ -1,9 +1,14 @@
-l_russian:
+﻿l_russian:
 
-  LAT_RUS:0 "Лифляндская губерния"
-  LAT_RUS_reactionism:0 "Лифляндская губерния"
-  LAT_RUS_reactionism_DEF:0 "Лифляндская губерния" 
-  
+ CRI_FRA:0 "Французкая Администрация Крыма"
+ CRI_FRA_DEF:0 "Французкая Администрация Крыма"
+ CRI_subject:0 "$OVERLORDADJ$ Администрация Крыма"
+ CRI_subject_DEF:0 "$OVERLORDADJ$ Администрация Крыма"
+
+ LAT_RUS:0 "Лифляндская губерния"
+ LAT_RUS_reactionism:0 "Лифляндская губерния"
+ LAT_RUS_reactionism_DEF:0 "Лифляндская губерния" 
+
  INS_HOL_democratic:0 "Голландская Ост-Индия"
  INS_HOL_democratic_DEF:0 "Голландская Ост-Индия"
  INS_subject:0 "$OVERLORDADJ$ Ост-Индия"
@@ -1304,7 +1309,4 @@ l_russian:
  BALTIC_belarus_DEF:0 "$NONIDEOLOGY$-Беларусь"
  SOV_the_right_opposition_communism:0 "СССР"
  SOV_the_right_opposition_communism_def:0 "Советская социалистическая республика"
-
- LAT_RUS_reactionism:0 "Лифляндская губерния"
- LAT_RUS_reactionism_DEF:0 "Лифляндская губерния" 
 

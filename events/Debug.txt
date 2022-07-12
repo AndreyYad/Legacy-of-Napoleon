@@ -1,0 +1,138 @@
+﻿add_namespace = debug
+
+country_event = {
+	id = debug.1
+	title = "Первое дебаг-событие"
+	desc = ""
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "First"
+		set_cosmetic_tag = CRI_FRA
+		set_country_flag = country_puppet
+	}
+	option = {
+		name = "Second"
+		var:alliance_country = {
+			log = "ROOT: [ROOT.GetName] | THIS: [THIS.GetName] | PREV: [PREV.GetName] | FROM: [FROM.GetName]"
+		}
+	}
+}
+#
+country_event = {
+	id = debug.2
+	title = "Второе дебаг-событие"
+	desc = ""
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "First"
+		#recruit_character = ENG_elizabeth_ii
+		SOV = {
+			add_ideas = {
+				empty
+			}
+		}
+	}
+}
+
+country_event = {
+	id = debug.3
+	title = "8-е Марта дебаг-событие"
+	desc = ""
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Тимошенко"
+		promote_character = UKR_mykola_azarov
+	}
+}
+
+country_event = {
+	id = debug.4
+	title = "Война на Ближнем Востоке дебаг-событие"
+	desc = ""
+	
+	is_triggered_only = yes
+	
+	option = {
+		EGY = { 
+			create_faction = DEBUG_FACTION
+			add_to_faction = JOR
+			add_to_faction = SAU
+			declare_war_on = { target = PAL type = annex_everything }
+			declare_war_on = { target = ISR type = annex_everything }
+			set_war_support = 10
+		}
+		JOR = { 
+			declare_war_on = { target = PAL type = annex_everything }
+			declare_war_on = { target = ISR type = annex_everything }
+			set_war_support = 10
+		}
+		SAU = { 
+			declare_war_on = { target = ISR type = annex_everything }
+			declare_war_on = { target = PAL type = annex_everything }
+			set_war_support = 10
+		}
+		ISR = { set_war_support = 10 }
+	}
+}
+
+country_event = {
+	id = debug.5
+	title = "Война России и Украины против ФРГ дебаг-событие"
+	desc = ""
+	
+	is_triggered_only = yes
+	
+	option = {
+		UKR = { 
+			create_faction = DEBUG_FACTION
+			add_to_faction = SOV
+			declare_war_on = { target = GER type = annex_everything }
+			annex_country = { target = POL transfer_troops = yes }
+		}
+		SOV = { 
+			declare_war_on = { target = GER type = annex_everything }
+		}
+	}
+}
+
+country_event = {
+	id = debug.6
+	title = "ГРОМКИЙ ЗАГОЛОВОК!!!"
+	desc = "Съешь же ещё этих мягких французских булок, да выпей чаю, а лучше съешь же ещё этих мягких французских булок, да выпей чаю, а лучше съешь же ещё этих мягких французских булок, да выпей чаю, а лучше съешь же ещё этих мягких французских булок, да выпей чаю."
+	
+	is_triggered_only = yes
+	
+	option = {
+		add_political_power = 5000
+	}
+	
+	option = {
+		add_stability = 10
+	}
+	
+	option = {
+		add_war_support = 10
+	}
+	
+	option = {
+		add_manpower = 50000
+	}
+}
+
+country_event = {
+	id = debug.7
+	title = "Стрелков на месте!!!"
+	desc = "Съешь же ещё этих мягких французских булок, да выпей чаю, а лучше съешь же ещё этих мягких французских булок, да выпей чаю, а лучше съешь же ещё этих мягких французских булок, да выпей чаю, а лучше съешь же ещё этих мягких французских булок, да выпей чаю."
+	
+	is_triggered_only = yes
+	
+	option = {
+		load_oob = "DNR_Strelkov"
+	}
+}
