@@ -12,14 +12,15 @@ state={
 		victory_points = {
 			422 3
 		}
-		owner = MAK
+		owner = POL
 		buildings = {
 			infrastructure = 3
 
 		}
+		add_core_of = POL
 		add_core_of = UKR
-                add_core_of = MAK
-	} 
+
+	}
 
 	provinces={
 		422 474 513 572 3412 6435 6520 6557 11441 11543 

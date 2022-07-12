@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = KPR
+		owner = SOV
 		victory_points = {
 			3720 1 
 		}
@@ -29,8 +29,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = KPR
-                add_core_of = RUS
+		add_core_of = SOV
 	}
 
 	provinces={
