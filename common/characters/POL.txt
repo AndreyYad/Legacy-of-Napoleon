@@ -3,10 +3,10 @@ characters = {
 		name=POL_Kristian
 		portraits={
 			civilian={
-				large="gfx/leaders/POL/Portrait_POL_Kristian.dds"
+				large="gfx/leaders/ITA/adolfus.dds"
 			}
 			army = {
-				small = "gfx/leaders/POL/Portrait_POL_Kristian.dds"
+				small = "gfx/leaders/ITA/adolfus.dds"
 			}
 		}
 		country_leader={

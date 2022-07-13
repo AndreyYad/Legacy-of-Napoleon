@@ -3,10 +3,10 @@ characters = {
 		name=ROM_Ferdinand_I
 		portraits={
 			civilian={
-				large="gfx/leaders/ROM/Portrait_ROM_Ferdinand_I.dds"
+				large="gfx/leaders/ITA/adolfus.dds"
 			}
 			army = {
-				small = "gfx/leaders/ROM/Portrait_ROM_Ferdinand_I.dds"
+				small = "gfx/leaders/ITA/adolfus.dds"
 			}
 		}
 		country_leader={

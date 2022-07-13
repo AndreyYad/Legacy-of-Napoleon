@@ -3,10 +3,10 @@ characters = {
 		name=ITA_Mussolini
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/Portrait_ITA_Mussolini.dds"
+				large="gfx/leaders/ITA/adolfus.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/Portrait_ITA_Mussolini.dds"
+				small = "gfx/leaders/ITA/adolfus.dds"
 			}
 		}
 		country_leader={
@@ -19,10 +19,10 @@ characters = {
 		name=ITA_Emanuil
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/Portrait_ITA_Emanuil.dds"
+				large="gfx/leaders/ITA/adolfus.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/Portrait_ITA_Emanuil.dds"
+				small = "gfx/leaders/ITA/adolfus.dds"
 			}
 		}
 		country_leader={

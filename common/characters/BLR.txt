@@ -3,10 +3,10 @@ characters = {
 		name = BLR_Bulak
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/BLR/Portrait_BLR_Bulak.dds"
+				large = "gfx/leaders/ITA/adolfus.dds"
 			}
 			army = {
-				small = "gfx/leaders/BLR/Portrait_BLR_Bulak.dds"
+				small = "gfx/leaders/ITA/adolfus.dds"
 			}
 		}
 		country_leader = {
