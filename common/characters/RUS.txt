@@ -4,7 +4,7 @@ characters = {
 		name = RUS_pavel_milyukov
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/ITA/adolfus.dds"
+				large = "gfx/leaders/RUS/pavel_milyukov.dds"
 			}
 		}
 		country_leader = {
@@ -18,7 +18,7 @@ characters = {
 		name = RUS_nikolai_romanov
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/ITA/adolfus.dds"
+				large = "gfx/leaders/RUS/nikolai_romanov.dds"
 			}
 		}
 		country_leader = {

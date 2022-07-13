@@ -3,10 +3,10 @@ characters = {
 		name=JAP_Esihito
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/adolfus.dds"
+				large="gfx/leaders/JAP/Portrait_JAP_Esihito.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/adolfus.dds"
+				small = "gfx/leaders/JAP/Portrait_JAP_Esihito.dds"
 			}
 		}
 		country_leader={
@@ -19,10 +19,10 @@ characters = {
 		name=JAP_Hirohito
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/adolfus.dds"
+				large="gfx/leaders/JAP/Portrait_JAP_Hirohito.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/adolfus.dds"
+				small = "gfx/leaders/JAP/Portrait_JAP_Hirohito.dds"
 			}
 		}
 		country_leader={

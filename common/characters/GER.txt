@@ -3,10 +3,10 @@ characters = {
 		name=GER_Willhelm
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/adolfus.dds"
+				large="gfx/leaders/GER/Portrait_GER_Willhelm.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/adolfus.dds"
+				small = "gfx/leaders/GER/Portrait_GER_Willhelm.dds"
 			}
 		}
 		country_leader={
@@ -19,10 +19,10 @@ characters = {
 		name=GER_Hitler
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/adolfus.dds"
+				large="gfx/leaders/GER/Portrait_GER_Hitler.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/adolfus.dds"
+				small = "gfx/leaders/GER/Portrait_GER_Hitler.dds"
 			}
 		}
 		country_leader={

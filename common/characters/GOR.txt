@@ -3,10 +3,10 @@ characters = {
 		name=GOR_Kocev
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/adolfus.dds"
+				large="gfx/leaders/GOR/Portrait_GOR_Kocev.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/adolfus.dds"
+				small = "gfx/leaders/GOR/Portrait_GOR_Kocev.dds"
 			}
 		}
 		country_leader={

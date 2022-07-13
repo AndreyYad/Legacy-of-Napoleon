@@ -3,10 +3,10 @@ characters = {
 		name = LIT_Napoleon
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/ITA/adolfus.dds"
+				large = "gfx/leaders/LIT/Portrait_LIT_Napoleon.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/adolfus.dds"
+				small = "gfx/leaders/LIT/Portrait_LIT_Napoleon.dds"
 			}
 		}
 		country_leader = {

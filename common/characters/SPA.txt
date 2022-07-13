@@ -3,10 +3,10 @@ characters = {
 		name=SPA_Alfonso_XIII
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/adolfus.dds"
+				large="gfx/leaders/SPA/Portrait_SPA_Alfonso_XIII.dds"
 			}
 			army = {
-				small = "gfx/leaders/ITA/adolfus.dds"
+				small = "gfx/leaders/SPA/Portrait_SPA_Alfonso_XIII.dds"
 			}
 		}
 		country_leader={
